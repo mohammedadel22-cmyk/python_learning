@@ -1,23 +1,20 @@
-# Python Basics Practice
+# Python Learning Journey
 
-A collection of beginner Python scripts documenting my learning progress.
+A structured repository documenting my progress in Python programming, featuring topic-based exercises and CLI mini-projects.
 
-## Files Included
+## Modules & Folders
 
-* **`hello.py`**: Practice exercises covering:
-  * Comments and `print()` formatting
-  * Escape sequences (`\n` for new lines, `\t` for tabs, and quote escaping)
-  * Multi-line strings
-  * Variables and string concatenation
-  * User input with `input()`
-* **`getting_name.py`**: Script for capturing and displaying user name input.
+| Folder | Topic | Description |
+| :--- | :--- | :--- |
+| [`01.python_basics/`](./01.python_basics) | **Python Basics** | Syntax, `print()` formatting, escape sequences, variables, `input()`, and CLI generator projects. |
 
-## How to Run
+## Prerequisites
 
-1. Make sure Python 3 is installed.
-2. Run any script from the terminal:
-   ```bash
-   python3 hello.py
+* Python 3.x installed on your system.
+* Clone the repository and run any script directly from your terminal:
+  ```bash
+  git clone [https://github.com/mohammedadel22-cmyk/python_learning.git](https://github.com/mohammedadel22-cmyk/python_learning.git)
+  cd python_learning
    
    ##Hint##
    this readme file is greated with gemini but the codes all created by me 
