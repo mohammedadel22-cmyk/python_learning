@@ -7,7 +7,7 @@ A structured repository documenting my progress in Python programming, featuring
 | Folder | Topic | Description |
 | :--- | :--- | :--- |
 | [`01.python_basics/`](./01.python_basics) | **Python Basics** | Syntax, `print()` formatting, escape sequences, variables, `input()`, and CLI generator projects. |
-
+| [`02.Data Types/`](./02.Data%20Types) | **Data Types** | Exploring Python data types, strings, numbers, and type conversion. |
 ## Prerequisites
 
 * Python 3.x installed on your system.
